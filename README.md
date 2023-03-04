@@ -4,7 +4,6 @@
 
 
 
-
 ## Background and Project Significance
 
 Used during pregnancy to monitor fetal heart rate and uterine contractions, cardiotocography (CTG) tests “allow early detection of fetal distress” (Potter, 2021). Typically, CTGs are manually reviewed by obstetricians and midwives (Figure 1). One criticism of this diagnostic tool is the tendency for the same CTG to receive different interpretations depending on the reviewer (high inter-observer variability rate) (Prior & Lees, 2019). An automated, reliable method for reading CTGs would empower expectant mothers with the knowledge they need while also reducing burden on their clinical teams.
