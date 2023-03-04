@@ -2,7 +2,7 @@
 
 #### March 28, 2022
 
-
+!()[https://github.com/kaspii314/fetal_ctg_classification/blob/assets/ctg.jpg]
 
 ## Background and Project Significance
 
